@@ -1,0 +1,43 @@
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+   
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    border:solid blue;
+    
+}
+
+.origami {
+    border-radius: 20px;
+    width:310px;
+    font-family: fantasy;
+    background-color: tan;
+    border:solid black;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    color: white;
+}
+.instructions {
+    background-color: rgb(240, 240, 159);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: purple;
+    border:solid black;
+
+}
+
+
